@@ -1,0 +1,28 @@
+//List of birthdays of all students
+
+var student1 = {
+  name: "Allison Smith",
+  birthday: "10/20/05"
+}
+
+var student2 = {
+  name: "John Watson"
+  birthday: "11/05/05"
+}
+
+var student3 = {
+  name: "Emma Thompson"
+  birthday: "12/26/04"
+}
+
+var student4 = {
+  name: "Danny Boyle"
+  birthday: "3/12/04"
+}
+
+var student5 = {
+  name: "Ashley Martinez"
+  birthday: "05/05/04"
+}
+
+
