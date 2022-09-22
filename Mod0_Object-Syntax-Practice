@@ -6,23 +6,27 @@ var student1 = {
 }
 
 var student2 = {
-  name: "John Watson"
+  name: "John Watson",
   birthday: "11/05/05"
 }
 
 var student3 = {
-  name: "Emma Thompson"
+  name: "Emma Thompson",
   birthday: "12/26/04"
 }
 
 var student4 = {
-  name: "Danny Boyle"
+  name: "Danny Boyle",
   birthday: "3/12/04"
 }
 
 var student5 = {
-  name: "Ashley Martinez"
+  name: "Ashley Martinez",
   birthday: "05/05/04"
 }
 
-
+//Tweet
+var Twitter1 = {
+  listedName: "Leira Sánchez ⚡️",
+  username: "@MechEngSanchez",
+  tweet: "My M1 Macbook Pro arrived 🤓"
